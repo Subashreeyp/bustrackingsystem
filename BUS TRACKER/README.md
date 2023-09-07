@@ -10,4 +10,3 @@ Guardian is a child tracking app combined with IoT.
 - Get the Location anywhere
 - Safe and secure 
 
- ## Made with :heart: by Tarun Kishore, Manoj, Eniyan, DayaAnand
